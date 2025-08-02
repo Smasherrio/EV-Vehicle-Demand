@@ -1,0 +1,11 @@
+# Requirements for Running EV Adoption Forecaster on local PC
+
+## Following packages of the specified versions must be installed to run the code
+
+- numpy==1.26.4
+- pandas==1.5.3
+- scikit-learn==1.6.1
+- scipy==1.15.2
+- statsmodels==0.14.4
+- streamlit==1.44.1
+- tensorflow==2.19.0
